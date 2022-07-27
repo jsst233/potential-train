@@ -1,0 +1,3 @@
+将server_camera.py文件拷贝到树莓派上运行
+客户端主程序为pcUI.py在PC运行
+通过HSV.py可调节车牌辅助定位HSV参数，以实现更好的效果
